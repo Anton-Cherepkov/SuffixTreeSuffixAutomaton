@@ -299,6 +299,9 @@ public:
     }
 };
 
+// The following code solves problem 'Refrain'
+// https://www.e-olymp.com/ru/problems/2469
+
 class Refrain {
     std::vector<int> refrain;
     size_t numberOfEntries;
